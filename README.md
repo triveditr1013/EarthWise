@@ -1,4 +1,4 @@
-# EarthWise
+# EarthWise - Spot the Fire V3.0
 A project for NASA International Space Apps Challenge - Spot the Fire 
 
 The 2020 NASA Space Apps Challenge that was selected by this group is called 'Spot the Fire V3.0'. This challenge required us to "propose, prototype, and present innovative ideas that use novel machine learning, data science, and data fusion for the prediction, detection and impact analysis of wildfires". Resourses were available for this challenge. Among those resourses, we decided to pick the MODIS Dataset from the NASA EarthData. 
