@@ -36,7 +36,7 @@ This project accomplishes the following:
 
 6. Apply different machine learning algorithms
 
-    6.1. Kneighbours
+    6.1. K - Neighbours
     
     6.2. SVC
     
