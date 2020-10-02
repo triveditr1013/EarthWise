@@ -37,7 +37,12 @@ This project accomplishes the following:
 6. Apply different machine learning algorithms
 
     6.1. Kneighbours
+    
     6.2. SVC
+    
     6.3. Random Forest
+    
     6.4. Logistic Regression
+    
     6.5. SGD
+    
